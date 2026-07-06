@@ -1,0 +1,7 @@
+CENG111;Algorithms and Programming I;6.
+CENG191;Computer Engineering Orientation;5.
+ACS205;Academic Communication Skills III;4.
+ESR101;Ethics and Social Responsibility;1.
+MCS155;Calculus for Engineering I;5.
+PHYS131;Physics I;6.
+TURK101;Turkish I;3.
